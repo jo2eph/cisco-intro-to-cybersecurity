@@ -56,11 +56,40 @@ How hackers can get their hands on your data:
 
 ### Smart Devices
 
-### What Do Hackers Want?
-
 ### Identity Theft
 
+Cybercriminals might not just want money, they may also invest in long-term gain of identity theft.
+
+Two examples of how they might do this:
+
+- Medical theft
+  - Rising medical costs have led to an increase in medical identity theft
+  - Cybercriminals steal medical insurance to use the benefits for themselves
+  - Where this happens, any medical procedures carried out in your name will then be saved in your medical records
+- Banking
+  - Stealing private data can help cybercriminals access bank accounts, credit cards, social profiles and other accounts
+  - Identity thief could file a fake tax return and collect refund
+  - They could even take out loans in your name and ruin your credit rating
+
 ### Who Else Wants My Data?
+
+Not just criminals who want your personal data
+
+Other entities interested in your personal identity:
+
+- Internet service provider (ISP)
+  - Your ISP tracks your online activity
+  - In some countries, they can sell this data to advertisers for a profit.
+  - In certain circumstances, ISPs may be legally required to share your information with government surveillance agencies or authorities
+- Advertisers
+  - Targeted advertising
+  - Advertisers monitor and track your online activities such as shopping habits and personal preferences and send targeted ads
+- Search engines and social media platforms
+  - Gather information about gender, geolocation, phone number and political and religious ideologies based on your search histories and online identity
+  - This info is then sold to advertisers for a profit
+- Websites you visit
+  - Websites use cookies to track your activities in order to provide a more personalized experience
+  - But this leaves a data trail that is linked to your online identity that can often end up in the hands of advertisers
 
 ---
 
