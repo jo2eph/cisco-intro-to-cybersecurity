@@ -27,10 +27,15 @@ Offline Identity:
 - Name
 - Age
 - Address
+- Important NOT to overlook importance of securing offline data
 
 Online Identity:
 
-- 
+- Not just name
+- Who you are and how you present yourself online
+- Username or alias
+- Social identity or online communities
+- Limit the amount of personal information you reveal through online identity
 
 ---
 
