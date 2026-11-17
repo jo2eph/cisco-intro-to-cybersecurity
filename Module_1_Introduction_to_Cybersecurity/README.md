@@ -17,6 +17,21 @@ Three levels of protection:
 - Government
   - National security, economic stability, and safety and wellbeing of citizens
 
+### 1.1.2 Protecting Your Personal Data
+
+**Personal data:** any information used to identify you, can exist both online and offline
+
+Offline Identity:
+
+- Real life persona
+- Name
+- Age
+- Address
+
+Online Identity:
+
+- 
+
 ---
 
 ## 1.2 Organizational Data
